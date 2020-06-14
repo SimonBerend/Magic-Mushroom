@@ -187,7 +187,7 @@ while (dead != 0) {
 }
 
 
-
+ 
 # Everybody lives! save that model ----------------------------------------
 write_rds(re_model, path = "Data/my_mushroom_model.rds")
 
